@@ -1,0 +1,5 @@
+{
+  "name": "Fixer Studio：A股复盘报告生成器",
+  "description": "基于AI大脑与Tushare数据的专业A股超短情绪周期复盘报告自动生成工具。",
+  "requestFramePermissions": []
+}
